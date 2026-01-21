@@ -69,6 +69,8 @@ https://www.piglei.com/articles/programmer-reading-list-1/ - 程序员阅读清�
 
 https://jacobian.org/
 
+
+
 ## books
 https://github.com/0voice/expert_readed_books?tab=readme-ov-file - expert_readed_books
 
@@ -82,15 +84,21 @@ https://github.com/57code/vue-interview
 ### Go
 https://github.com/Dujltqzv/Some-Many-Books/blob/main/PDF-file/golang
 
-## MaxKB
+### MaxKB
 https://maxkb.cn/
+
+
 
 ## 算法
 https://www.hello-algo.com/
 
+
+
 ## exam
 ### 软考架构
 https://github.com/xxlllq/system_architect
+
+
 
 ## DL
 https://leimao.github.io/blog/Dropout-Explained/
@@ -115,6 +123,8 @@ https://www.deeplearningbook.org/
 
 https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
+
+
 ## Math
 https://zhuanlan.zhihu.com/p/535053668 - 8分钟带你彻底弄懂《线性代数》
 
@@ -127,6 +137,8 @@ https://www.mathsisfun.com/ - math is fun
 https://www.shuxuele.com/ - 数学乐
 
 https://github.com/Dodo0000/IntroductionToLinearAlgebra-note - MIT 18.06线性代数课程代码笔记
+
+
 
 ## funds & stocks
 https://www.zhihu.com/question/331698615/answer/1295145324
