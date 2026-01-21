@@ -62,6 +62,8 @@ https://arthurchiao.art
 ## books
 https://github.com/0voice/expert_readed_books?tab=readme-ov-file - expert_readed_books
 
+https://github.com/Dujltqzv/Some-Many-Books/tree/main
+
 
 ## codes
 ### vue
@@ -116,5 +118,5 @@ https://www.shuxuele.com/ - 数学乐
 
 https://github.com/Dodo0000/IntroductionToLinearAlgebra-note - MIT 18.06线性代数课程代码笔记
 
-## found
+## funds & stocks
 https://www.zhihu.com/question/331698615/answer/1295145324
