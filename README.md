@@ -67,6 +67,8 @@ https://www.piglei.com/
 
 https://www.piglei.com/articles/programmer-reading-list-1/ - 程序员阅读清单：我喜欢的 100 篇技术文章（1-20）
 
+https://jacobian.org/
+
 ## books
 https://github.com/0voice/expert_readed_books?tab=readme-ov-file - expert_readed_books
 
