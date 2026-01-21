@@ -73,6 +73,8 @@ https://jacobian.org/
 
 https://www.digitalocean.com/community/tutorials
 
+https://antfu.me/posts/about-yak-shaving-zh
+
 
 
 ## books
