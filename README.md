@@ -63,6 +63,8 @@ https://devlike.top/posts/before-30/
 
 https://pythonhunter.org/by/laike9m/
 
+https://www.piglei.com/
+
 ## books
 https://github.com/0voice/expert_readed_books?tab=readme-ov-file - expert_readed_books
 
