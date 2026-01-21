@@ -3,6 +3,7 @@
 ## blogs
 https://github.com/zzzzzhowie
 https://github.com/youyua9710
+https://leimao.github.io
 
 ## books
 https://github.com/0voice/expert_readed_books?tab=readme-ov-file - expert_readed_books
