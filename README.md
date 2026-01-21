@@ -59,6 +59,8 @@ https://github.com/karpathy
 
 https://arthurchiao.art
 
+https://devlike.top/posts/before-30/
+
 ## books
 https://github.com/0voice/expert_readed_books?tab=readme-ov-file - expert_readed_books
 
