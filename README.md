@@ -75,7 +75,7 @@ https://www.digitalocean.com/community/tutorials
 
 https://antfu.me/posts/about-yak-shaving-zh
 
-
+https://jhuang.me/
 
 ## books
 https://github.com/0voice/expert_readed_books?tab=readme-ov-file - expert_readed_books
