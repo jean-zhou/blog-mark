@@ -63,7 +63,7 @@ https://devlike.top/posts/before-30/ - python Django
 
 https://pythonhunter.org/by/laike9m/ - python
 
-https://www.piglei.com/ - Go & python
+https://www.piglei.com/about/ - Go & python
 
 https://github.com/piglei - Go & python
 
