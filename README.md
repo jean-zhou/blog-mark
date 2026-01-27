@@ -9,7 +9,7 @@ https://leimao.github.io
 
 https://letters.thedankoe.com/t/ai-and-prompts
 
-https://x.cosine.ren/ 
+https://x.cosine.ren/ - 前端
 
 https://zhangxiaopan.net/
 
@@ -27,7 +27,7 @@ https://davidstarsilver.wordpress.com/research/
 
 https://blog.tsingjyujing.com/
 
-https://github.com/ahkarami
+https://github.com/ahkarami - DL
 
 https://www.qin.news/
 
@@ -35,15 +35,15 @@ https://www.zhihu.com/people/theanarkh
 
 https://www.cnblogs.com/joyeecheung/archive/2012/11/04/2753563.html
 
-https://frostming.com/
+https://frostming.com/ - python
 
-https://blog.lxxyx.cn/
+https://blog.lxxyx.cn/ - 前端
 
 https://terrytangyuan.github.io/
 
 https://sungsoo.github.io/
 
-https://hthu.github.io/
+https://hthu.github.io/ - openAI
 
 https://caisq.github.io/
 
@@ -55,15 +55,15 @@ https://github.com/JackonYang
 
 https://martinfowler.com/
 
-https://github.com/karpathy
+https://github.com/karpathy - CUDA & DL
 
-https://arthurchiao.art
+https://arthurchiao.art - GPU & AI agent
 
-https://devlike.top/posts/before-30/
+https://devlike.top/posts/before-30/ - python Django
 
-https://pythonhunter.org/by/laike9m/
+https://pythonhunter.org/by/laike9m/ - python
 
-https://www.piglei.com/
+https://www.piglei.com/ - Go & python
 
 https://github.com/piglei
 
@@ -73,9 +73,9 @@ https://jacobian.org/
 
 https://www.digitalocean.com/community/tutorials
 
-https://antfu.me/posts/about-yak-shaving-zh
+https://antfu.me/posts/about-yak-shaving-zh - vue
 
-https://jhuang.me/
+https://jhuang.me/ - 台湾
 
 ## books
 https://github.com/0voice/expert_readed_books?tab=readme-ov-file - expert_readed_books
