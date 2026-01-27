@@ -65,7 +65,7 @@ https://pythonhunter.org/by/laike9m/ - python
 
 https://www.piglei.com/ - Go & python
 
-https://github.com/piglei
+https://github.com/piglei - Go & python
 
 https://www.piglei.com/articles/programmer-reading-list-1/ - 程序员阅读清单：我喜欢的 100 篇技术文章（1-20）
 
