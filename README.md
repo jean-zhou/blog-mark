@@ -79,7 +79,7 @@ https://www.digitalocean.com/community/tutorials
 
 https://antfu.me/posts/about-yak-shaving-zh - vue
 
-https://jhuang.me/ - 台湾
+https://shidenggui.com/ - 文学
 
 ## books
 https://github.com/0voice/expert_readed_books?tab=readme-ov-file - expert_readed_books
