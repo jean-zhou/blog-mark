@@ -136,6 +136,8 @@ https://www.deeplearningbook.org/
 
 https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
+https://datawhalechina.github.io/happy-llm/#/
+
 
 
 ## Math
