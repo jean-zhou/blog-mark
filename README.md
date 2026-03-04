@@ -81,6 +81,8 @@ https://antfu.me/posts/about-yak-shaving-zh - vue
 
 https://shidenggui.com/ - 文学
 
+https://imba97.com/ - 前端
+
 ## books
 https://github.com/0voice/expert_readed_books?tab=readme-ov-file - expert_readed_books
 
